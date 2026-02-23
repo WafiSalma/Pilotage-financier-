@@ -1,0 +1,11 @@
+category,department,account_code,account_label
+Salaries,RH,6000,Compte Salaries
+Rent,Facilities,6001,Compte Rent
+Utilities,Facilities,6002,Compte Utilities
+Marketing,Growth,6003,Compte Marketing
+Software,IT,6004,Compte Software
+Travel,Operations,6005,Compte Travel
+Supplies,Operations,6006,Compte Supplies
+Logistics,Operations,6007,Compte Logistics
+ProfessionalServices,Admin,6008,Compte ProfessionalServices
+Taxes,Admin,6009,Compte Taxes
