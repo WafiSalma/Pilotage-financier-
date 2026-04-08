@@ -10,10 +10,15 @@ La problématique centrale : Comment transformer ces données brutes en un syst�
 Sources de données (fichiers CSV)
 
 Clients:ID, nom, segment, pays, date de création
+
 Produits:ID, nom, catégorie, prix unitaire
+
 Ventes & Factures:Date, facture, client, produit, quantité, remise, montant
+
 Dépenses & Charges:Date, fournisseur, département, catégorie, montant
+
 Budget mensuel:Budget prévu par département et catégorie
+
 Mapping comptable:Liaison catégories → comptes comptables
 
 Méthodologie en 3 phases
